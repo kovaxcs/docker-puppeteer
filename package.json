@@ -1,5 +1,12 @@
 {
-  "dependencies": {
-    "puppeteer": "8.0.0"
-  }
+    "name": "kcstableaoulogin",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "puppeteer": "8.0.0"
+    }
 }
